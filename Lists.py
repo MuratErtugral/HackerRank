@@ -17,3 +17,8 @@ if __name__ == '__main__':
             output.reverse()
         else:
             output.pop()
+
+            
+            
+            
+            
